@@ -1,0 +1,8 @@
+ref/
+*.psd
+*.pdf
+#Exclude all dlls
+*.dll  
+# pour exclure un fichier du gitignore on rajoute le ! devant le nom de fichier
+#Except for foo.dll
+!foo.dll 
